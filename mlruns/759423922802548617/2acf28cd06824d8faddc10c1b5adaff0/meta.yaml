@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/759423922802548617/2acf28cd06824d8faddc10c1b5adaff0/artifacts
+end_time: 1763185736696
+entry_point_name: ''
+experiment_id: '759423922802548617'
+lifecycle_stage: active
+run_id: 2acf28cd06824d8faddc10c1b5adaff0
+run_name: rf_100esti
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763185736161
+status: 4
+tags: []
+user_id: abc

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/363269006820637240/09691d797863465a9bc37a35dc85c0ed/artifacts
+end_time: 1763185258162
+entry_point_name: ''
+experiment_id: '363269006820637240'
+lifecycle_stage: active
+run_id: 09691d797863465a9bc37a35dc85c0ed
+run_name: delicate-shark-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763185258055
+status: 3
+tags: []
+user_id: abc

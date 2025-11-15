@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/966290975432962648/f34dfda5222f4c2291a9c871581fc317/artifacts
+deleted_time: 1763185362272
+end_time: 1763185340273
+entry_point_name: ''
+experiment_id: '966290975432962648'
+lifecycle_stage: deleted
+run_id: f34dfda5222f4c2291a9c871581fc317
+run_name: auspicious-skink-428
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763185340203
+status: 3
+tags: []
+user_id: abc

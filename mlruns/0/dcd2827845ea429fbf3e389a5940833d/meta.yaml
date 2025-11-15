@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dcd2827845ea429fbf3e389a5940833d/artifacts
+end_time: 1763184418285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dcd2827845ea429fbf3e389a5940833d
+run_name: popular-ox-997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763184418036
+status: 3
+tags: []
+user_id: abc

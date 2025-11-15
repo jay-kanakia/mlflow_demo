@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/363269006820637240
+creation_time: 1763185131235
+experiment_id: '363269006820637240'
+last_update_time: 1763185131235
+lifecycle_stage: active
+name: iris-rf

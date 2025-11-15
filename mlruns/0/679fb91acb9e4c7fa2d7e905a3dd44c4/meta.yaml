@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/679fb91acb9e4c7fa2d7e905a3dd44c4/artifacts
+end_time: 1763184693771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 679fb91acb9e4c7fa2d7e905a3dd44c4
+run_name: handsome-colt-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763184693644
+status: 3
+tags: []
+user_id: abc

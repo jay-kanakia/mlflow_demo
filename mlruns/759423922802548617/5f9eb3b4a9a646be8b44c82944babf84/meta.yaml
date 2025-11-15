@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/759423922802548617/5f9eb3b4a9a646be8b44c82944babf84/artifacts
+end_time: 1763188119462
+entry_point_name: ''
+experiment_id: '759423922802548617'
+lifecycle_stage: active
+run_id: 5f9eb3b4a9a646be8b44c82944babf84
+run_name: rf_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763188119322
+status: 3
+tags: []
+user_id: abc

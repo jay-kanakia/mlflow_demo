@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/759423922802548617/a88b174890c64f27bfe425c0e53f1fc8/artifacts
+end_time: 1763185385337
+entry_point_name: ''
+experiment_id: '759423922802548617'
+lifecycle_stage: active
+run_id: a88b174890c64f27bfe425c0e53f1fc8
+run_name: adaptable-ray-985
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763185385138
+status: 3
+tags: []
+user_id: abc
