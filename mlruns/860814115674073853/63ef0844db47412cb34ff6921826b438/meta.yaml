@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/860814115674073853/63ef0844db47412cb34ff6921826b438/artifacts
+end_time: 1763367078055
+entry_point_name: ''
+experiment_id: '860814115674073853'
+lifecycle_stage: active
+run_id: 63ef0844db47412cb34ff6921826b438
+run_name: indecisive-eel-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763367077931
+status: 3
+tags: []
+user_id: abc

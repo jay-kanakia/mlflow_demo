@@ -1,0 +1,10 @@
+digest: 8530c7f3
+name: dataset
+profile: '{"num_rows": 120, "num_elements": 600}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": 0, "required": true}, {"type":
+  "double", "name": 1, "required": true}, {"type": "double", "name": 2, "required":
+  true}, {"type": "double", "name": 3, "required": true}, {"type": "integer", "name":
+  "target", "required": true}]}'
+source: '{"tags": {"mlflow.user": "abc", "mlflow.source.name": ".\\src\\data_ingestion.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "ff0f1590a46630ddeb3afd1570aad1332b6be6af"}}'
+source_type: code

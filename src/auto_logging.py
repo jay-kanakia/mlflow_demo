@@ -12,6 +12,8 @@ import os
 # MLflow Tracking URI
 #mlflow.set_tracking_uri("http://ec2-13-203-78-91.ap-south-1.compute.amazonaws.com:5000/")   # Make sure MLflow server is running!
 
+mlflow.set_experiment(experiment_name='autologging')
+mlflow.autolog()
 
 # Load data
 iris = load_iris()
@@ -26,7 +28,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 # Experiment Setup
 #mlflow.set_experiment("iris_dt")
 
-max_depth = 5
+max_depth = 2
 #n_estimators = 10   # not used by DecisionTree but kept for logging if needed
 
 # Train decision tree model
@@ -47,14 +49,23 @@ test_df=pd.DataFrame(X_test)
 test_df['target']=y_test
 test_df=mlflow.data.from_pandas(test_df)
 
-# Experiment Setup
-mlflow.set_experiment("logging_dataframe")
+cm=confusion_matrix(y_test,y_pred)
+sns.heatmap(cm,annot=True,cmap='viridis')
+plt.title("Confusion Matrix")
+plt.savefig('cm.png')
 
-# Start MLflow run
-with mlflow.start_run():
-    # Log parameters
-    mlflow.log_metric('accuracy',accuracy)
-    mlflow.log_param('max_depth',max_depth)
+
+
+
+
+# # Experiment Setup
+# mlflow.set_experiment("Autologging")
+
+# # Start MLflow run
+# with mlflow.start_run(experiment_name='autolog1'):
+#     # Log parameters
+#     mlflow.log_metric('accuracy',accuracy)
+#     mlflow.log_param('max_depth',max_depth)
     
-    mlflow.log_input(train_df,'training')
-    mlflow.log_input(test_df,'testing')
+#     mlflow.log_input(train_df,'training')
+#     mlflow.log_input(test_df,'testing')

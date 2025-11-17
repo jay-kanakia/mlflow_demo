@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/930807690507930254/52b336c2be344602b2a62bbcdcc8e610/artifacts
+end_time: 1763368205581
+entry_point_name: ''
+experiment_id: '930807690507930254'
+lifecycle_stage: active
+run_id: 52b336c2be344602b2a62bbcdcc8e610
+run_name: delicate-horse-871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763368176842
+status: 3
+tags: []
+user_id: abc

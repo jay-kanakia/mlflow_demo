@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/930807690507930254/9deff65835cf43f1b010ae7dd0d524f9/artifacts
+end_time: 1763368063092
+entry_point_name: ''
+experiment_id: '930807690507930254'
+lifecycle_stage: active
+run_id: 9deff65835cf43f1b010ae7dd0d524f9
+run_name: hilarious-colt-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763368045221
+status: 3
+tags: []
+user_id: abc

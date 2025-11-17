@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7e096094f7ec4fbca7bed7249edb99ec/artifacts
+end_time: 1763364367263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e096094f7ec4fbca7bed7249edb99ec
+run_name: learned-zebra-876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763364367148
+status: 3
+tags: []
+user_id: abc

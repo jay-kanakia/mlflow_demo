@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/930807690507930254/e94b552ea78e4d38baa88dd9c2f73821/artifacts
+end_time: 1763367910015
+entry_point_name: ''
+experiment_id: '930807690507930254'
+lifecycle_stage: active
+run_id: e94b552ea78e4d38baa88dd9c2f73821
+run_name: salty-mink-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763367888647
+status: 3
+tags: []
+user_id: abc

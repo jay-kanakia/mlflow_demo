@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/930807690507930254/models/m-9bc01edd18bb47bd8e27aa9a0c41ae73/artifacts
+creation_timestamp: 1763368045378
+experiment_id: '930807690507930254'
+last_updated_timestamp: 1763368061909
+model_id: m-9bc01edd18bb47bd8e27aa9a0c41ae73
+model_type: null
+name: model
+source_run_id: 9deff65835cf43f1b010ae7dd0d524f9
+status: 2
+status_message: null

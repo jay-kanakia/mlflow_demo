@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2d2252ee65694146a2d7bd73285391b2/artifacts
+end_time: 1763367002445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d2252ee65694146a2d7bd73285391b2
+run_name: vaunted-hawk-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763367002265
+status: 3
+tags: []
+user_id: abc
