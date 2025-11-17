@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/854259071628439098/4c0c1564f5144ed29237428167e1e844/artifacts
+end_time: 1763372286082
+entry_point_name: ''
+experiment_id: '854259071628439098'
+lifecycle_stage: active
+run_id: 4c0c1564f5144ed29237428167e1e844
+run_name: exultant-snake-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763372271053
+status: 3
+tags: []
+user_id: abc

@@ -1,0 +1,13 @@
+digest: 4bca69fa
+name: dataset
+profile: '{"num_rows": 154, "num_elements": 1386}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Pregnancies", "required":
+  true}, {"type": "double", "name": "Glucose", "required": true}, {"type": "double",
+  "name": "BloodPressure", "required": true}, {"type": "double", "name": "SkinThickness",
+  "required": true}, {"type": "double", "name": "Insulin", "required": true}, {"type":
+  "double", "name": "BMI", "required": true}, {"type": "double", "name": "DiabetesPedigreeFunction",
+  "required": true}, {"type": "double", "name": "Age", "required": true}, {"type":
+  "double", "name": "outcome", "required": false}]}'
+source: '{"tags": {"mlflow.user": "abc", "mlflow.source.name": ".\\src\\hyperparameter_tuning.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "0b28e2974f4f238273d8dedb00776b14cc9ce1cd"}}'
+source_type: code

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/854259071628439098/20dca0a009724fa5911d67fdb434a8bc/artifacts
+end_time: 1763370706774
+entry_point_name: ''
+experiment_id: '854259071628439098'
+lifecycle_stage: active
+run_id: 20dca0a009724fa5911d67fdb434a8bc
+run_name: loud-stag-758
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763370706574
+status: 4
+tags: []
+user_id: abc
