@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/462177768287131122/ad8655066ade44d6a2ee064cfad6a180/artifacts
+end_time: 1763373110727
+entry_point_name: ''
+experiment_id: '462177768287131122'
+lifecycle_stage: active
+run_id: ad8655066ade44d6a2ee064cfad6a180
+run_name: vaunted-yak-948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763373110577
+status: 3
+tags: []
+user_id: abc

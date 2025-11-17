@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/462177768287131122/085bb0b6ac0e43faa3cd129f4a0e3ff2/artifacts
+end_time: 1763373111017
+entry_point_name: ''
+experiment_id: '462177768287131122'
+lifecycle_stage: active
+run_id: 085bb0b6ac0e43faa3cd129f4a0e3ff2
+run_name: smiling-bear-14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763373110937
+status: 3
+tags: []
+user_id: abc

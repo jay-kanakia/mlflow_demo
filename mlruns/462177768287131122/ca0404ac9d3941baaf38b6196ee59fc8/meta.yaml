@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/462177768287131122/ca0404ac9d3941baaf38b6196ee59fc8/artifacts
+end_time: 1763373110927
+entry_point_name: ''
+experiment_id: '462177768287131122'
+lifecycle_stage: active
+run_id: ca0404ac9d3941baaf38b6196ee59fc8
+run_name: bouncy-robin-794
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763373110842
+status: 3
+tags: []
+user_id: abc

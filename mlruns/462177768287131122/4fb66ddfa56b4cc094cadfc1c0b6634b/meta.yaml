@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/462177768287131122/4fb66ddfa56b4cc094cadfc1c0b6634b/artifacts
+end_time: 1763373110567
+entry_point_name: ''
+experiment_id: '462177768287131122'
+lifecycle_stage: active
+run_id: 4fb66ddfa56b4cc094cadfc1c0b6634b
+run_name: defiant-whale-906
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763373110477
+status: 3
+tags: []
+user_id: abc

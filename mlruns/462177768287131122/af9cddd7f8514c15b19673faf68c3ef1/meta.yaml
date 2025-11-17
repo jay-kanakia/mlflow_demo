@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/462177768287131122/af9cddd7f8514c15b19673faf68c3ef1/artifacts
+end_time: 1763373110827
+entry_point_name: ''
+experiment_id: '462177768287131122'
+lifecycle_stage: active
+run_id: af9cddd7f8514c15b19673faf68c3ef1
+run_name: capricious-calf-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763373110742
+status: 3
+tags: []
+user_id: abc

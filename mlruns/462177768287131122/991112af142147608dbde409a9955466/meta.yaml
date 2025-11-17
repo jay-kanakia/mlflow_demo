@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/462177768287131122/991112af142147608dbde409a9955466/artifacts
+end_time: 1763373111195
+entry_point_name: ''
+experiment_id: '462177768287131122'
+lifecycle_stage: active
+run_id: 991112af142147608dbde409a9955466
+run_name: indecisive-pig-304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763373111107
+status: 3
+tags: []
+user_id: abc

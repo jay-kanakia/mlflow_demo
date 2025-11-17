@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/abc/Data%20Science%20and%20ML/CampusX/mlflow_demo/mlruns/462177768287131122
+creation_time: 1763373108881
+experiment_id: '462177768287131122'
+last_update_time: 1763373108881
+lifecycle_stage: active
+name: nested_exp
